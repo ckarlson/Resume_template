@@ -1,0 +1,14 @@
+/*This is my personalized CSS stylesheet
+1. Selecting all the tags (i.e. h1 or p)
+2. Selecting id's
+3. Creating classes
+*/
+
+.newSectionColor{
+    /*html color picker*/
+    color: #9966ff !important;
+}
+
+#new_section {
+    background-color: #ff0066;
+}
